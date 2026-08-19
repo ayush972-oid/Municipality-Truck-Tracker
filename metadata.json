@@ -1,0 +1,6 @@
+{
+  "name": "MuniTrack - Fleet & Waste Timing Hub",
+  "description": "Real-time municipal truck tracking, live area coverage heatmaps, resident ETA notifications, and AI-powered route optimization.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
